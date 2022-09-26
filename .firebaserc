@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "saiful-portfolio",
-    "main": "saiful-portfolio"
+    "saiful\\": "saifulishuvo",
+    "default": "saifulishuvo"
   },
   "targets": {},
   "etags": {}
